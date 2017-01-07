@@ -1,0 +1,7 @@
+c:\users\acwhite\documents\visual studio 2015\Projects\Async_Client\Async_Client\bin\Debug\Async_Client.exe.config
+C:\Users\clini\OneDrive\Documents\Visual Studio 2015\Projects\Async_Client\Async_Client\bin\Debug\Async_Client.exe.config
+C:\Users\clini\OneDrive\Documents\Visual Studio 2015\Projects\Async_Client\Async_Client\obj\Debug\Async_Client.csprojResolveAssemblyReference.cache
+C:\Users\clini\OneDrive\Documents\Visual Studio 2015\Projects\Async_Client\Async_Client\bin\Debug\Async_Client.exe
+C:\Users\clini\OneDrive\Documents\Visual Studio 2015\Projects\Async_Client\Async_Client\bin\Debug\Async_Client.pdb
+C:\Users\clini\OneDrive\Documents\Visual Studio 2015\Projects\Async_Client\Async_Client\obj\Debug\Async_Client.exe
+C:\Users\clini\OneDrive\Documents\Visual Studio 2015\Projects\Async_Client\Async_Client\obj\Debug\Async_Client.pdb
