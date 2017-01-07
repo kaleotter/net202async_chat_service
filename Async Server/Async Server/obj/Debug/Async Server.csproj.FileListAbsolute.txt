@@ -1,0 +1,12 @@
+c:\users\acwhite\documents\visual studio 2015\Projects\Async Server\Async Server\bin\Debug\Async Server.exe.config
+c:\users\acwhite\documents\visual studio 2015\Projects\Async Server\Async Server\obj\Debug\Async Server.csprojResolveAssemblyReference.cache
+c:\users\acwhite\documents\visual studio 2015\Projects\Async Server\Async Server\bin\Debug\Async Server.exe
+c:\users\acwhite\documents\visual studio 2015\Projects\Async Server\Async Server\bin\Debug\Async Server.pdb
+c:\users\acwhite\documents\visual studio 2015\Projects\Async Server\Async Server\obj\Debug\Async Server.exe
+c:\users\acwhite\documents\visual studio 2015\Projects\Async Server\Async Server\obj\Debug\Async Server.pdb
+C:\Users\clini\OneDrive\Documents\Visual Studio 2015\Projects\Async Server\Async Server\bin\Debug\Async Server.exe.config
+C:\Users\clini\OneDrive\Documents\Visual Studio 2015\Projects\Async Server\Async Server\obj\Debug\Async Server.exe
+C:\Users\clini\OneDrive\Documents\Visual Studio 2015\Projects\Async Server\Async Server\obj\Debug\Async Server.pdb
+C:\Users\clini\OneDrive\Documents\Visual Studio 2015\Projects\Async Server\Async Server\bin\Debug\Async Server.exe
+C:\Users\clini\OneDrive\Documents\Visual Studio 2015\Projects\Async Server\Async Server\bin\Debug\Async Server.pdb
+C:\Users\clini\OneDrive\Documents\Visual Studio 2015\Projects\Async Server\Async Server\obj\Debug\Async Server.csprojResolveAssemblyReference.cache
